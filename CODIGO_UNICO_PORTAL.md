@@ -909,23 +909,6 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "galaxy-a15-256gb",
-            "title": "Galaxy A15 256 GB",
-            "category": "ecommerce",
-            "source": "Magazine Luiza",
-            "sourceUrl": "https://www.magazineluiza.com.br/busca/galaxy-a15/",
-            "headline": "Galaxy A15 em compressão de preço com procura forte no mobile.",
-            "summary": "Modelo com procura consistente em pesquisas de compra imediata e forte sensibilidade a desconto real.",
-            "referenceValue": 1429,
-            "currentValue": 949,
-            "tags": [
-                  "android",
-                  "desconto",
-                  "smartphone",
-                  "alto giro"
-            ]
-      },
-      {
             "slug": "smart-tv-55-qled",
             "title": "Smart TV 55 QLED",
             "category": "ecommerce",
@@ -940,6 +923,23 @@
                   "qled",
                   "sala",
                   "eletronicos"
+            ]
+      },
+      {
+            "slug": "galaxy-a15-256gb",
+            "title": "Galaxy A15 256 GB",
+            "category": "ecommerce",
+            "source": "Magazine Luiza",
+            "sourceUrl": "https://www.magazineluiza.com.br/busca/galaxy-a15/",
+            "headline": "Galaxy A15 em compressão de preço com procura forte no mobile.",
+            "summary": "Modelo com procura consistente em pesquisas de compra imediata e forte sensibilidade a desconto real.",
+            "referenceValue": 1429,
+            "currentValue": 949,
+            "tags": [
+                  "android",
+                  "desconto",
+                  "smartphone",
+                  "alto giro"
             ]
       },
       {
@@ -968,7 +968,7 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 12.21,
+            "currentValue": 12.12,
             "tags": [
                   "mxrf11",
                   "fii",
