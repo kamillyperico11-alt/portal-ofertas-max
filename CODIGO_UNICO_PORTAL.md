@@ -926,6 +926,23 @@
             ]
       },
       {
+            "slug": "smart-tv-55-qled",
+            "title": "Smart TV 55 QLED",
+            "category": "ecommerce",
+            "source": "Magazine Luiza",
+            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
+            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
+            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
+            "referenceValue": 3299,
+            "currentValue": 2159.1,
+            "tags": [
+                  "tv",
+                  "qled",
+                  "sala",
+                  "eletronicos"
+            ]
+      },
+      {
             "slug": "kncr11-radar",
             "title": "KNCR11",
             "category": "fii",
@@ -940,23 +957,6 @@
                   "papel",
                   "fii",
                   "renda"
-            ]
-      },
-      {
-            "slug": "smart-tv-55-qled",
-            "title": "Smart TV 55 QLED",
-            "category": "ecommerce",
-            "source": "Magazine Luiza",
-            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
-            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
-            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
-            "referenceValue": 3299,
-            "currentValue": 2564.05,
-            "tags": [
-                  "tv",
-                  "qled",
-                  "sala",
-                  "eletronicos"
             ]
       },
       {
