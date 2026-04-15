@@ -1,0 +1,51 @@
+name: Price Bot TechFinds
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: techfinds-price-bot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Executar Price Bot horário
+        env:
+          AFFILIATE_ID: ${{ secrets.AFFILIATE_ID }}
+          OFFERS_API_URL: ${{ secrets.OFFERS_API_URL }}
+        run: node price-bot.js
+
+      - name: Configurar identidade do Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit e push automáticos
+        run: |
+          if git diff --quiet; then
+            echo "Sem mudanças de preço para publicar."
+            exit 0
+          fi
+
+          git add index.html CODIGO_UNICO_PORTAL.md price-bot.js server.js .github/workflows/update-offers-vercel.yml
+          git commit -m "chore: atualização automática do price bot"
+          git push
+          
