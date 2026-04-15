@@ -45,7 +45,7 @@ jobs:
             exit 0
           fi
 
-          git add index.html CODIGO_UNICO_PORTAL.md price-bot.js server.js .github/workflows/update-offers-vercel.yml
+          git add index.html CODIGO_UNICO_PORTAL.md price-bot.js server.js
           git commit -m "chore: atualização automática do price bot"
           git push
           
