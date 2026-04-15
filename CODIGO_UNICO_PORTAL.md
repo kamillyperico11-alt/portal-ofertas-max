@@ -926,23 +926,6 @@
             ]
       },
       {
-            "slug": "notebook-rtx4050",
-            "title": "Notebook RTX 4050",
-            "category": "ecommerce",
-            "source": "Amazon Brasil",
-            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
-            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
-            "summary": "Item premium com forte propensão a converter quando recebe copy técnica, urgência e prova de oportunidade.",
-            "referenceValue": 5899,
-            "currentValue": 3899,
-            "tags": [
-                  "notebook",
-                  "gamer",
-                  "ticket alto",
-                  "premium"
-            ]
-      },
-      {
             "slug": "kncr11-radar",
             "title": "KNCR11",
             "category": "fii",
@@ -977,20 +960,20 @@
             ]
       },
       {
-            "slug": "xplg11-radar",
-            "title": "XPLG11",
+            "slug": "mxrf11-rendimento",
+            "title": "MXRF11",
             "category": "fii",
             "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
-            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
-            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
-            "referenceValue": 8.6,
-            "currentValue": 9.84,
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
+            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
+            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
+            "referenceValue": 10.15,
+            "currentValue": 12.21,
             "tags": [
-                  "xplg11",
-                  "logistica",
-                  "proventos",
-                  "fii"
+                  "mxrf11",
+                  "fii",
+                  "dividendos",
+                  "rendimento"
             ]
       }
 ]
