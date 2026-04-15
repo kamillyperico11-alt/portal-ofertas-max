@@ -3,7 +3,7 @@ import path from 'node:path';
 import process from 'node:process';
 
 const ROOT = process.cwd();
-const HTML_PATH = path.join(ROOT, 'portal-techfinds-single-file.html');
+const HTML_PATH = path.join(ROOT, 'index.html');
 const MARKDOWN_PATH = path.join(ROOT, 'CODIGO_UNICO_PORTAL.md');
 const DEFAULT_AFFILIATE_ID = 'techfinds0d70-20';
 const OFFERS_API_URL = process.env.OFFERS_API_URL || '';
