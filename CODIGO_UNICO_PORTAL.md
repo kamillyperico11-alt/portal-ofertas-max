@@ -917,29 +917,12 @@
             "headline": "Galaxy A15 em compressão de preço com procura forte no mobile.",
             "summary": "Modelo com procura consistente em pesquisas de compra imediata e forte sensibilidade a desconto real.",
             "referenceValue": 1429,
-            "currentValue": 899.1,
+            "currentValue": 949,
             "tags": [
                   "android",
                   "desconto",
                   "smartphone",
                   "alto giro"
-            ]
-      },
-      {
-            "slug": "smart-tv-55-qled",
-            "title": "Smart TV 55 QLED",
-            "category": "ecommerce",
-            "source": "Magazine Luiza",
-            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
-            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
-            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
-            "referenceValue": 3299,
-            "currentValue": 2159.1,
-            "tags": [
-                  "tv",
-                  "qled",
-                  "sala",
-                  "eletronicos"
             ]
       },
       {
@@ -968,12 +951,29 @@
             "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
             "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
             "referenceValue": 11.1,
-            "currentValue": 13.87,
+            "currentValue": 13.82,
             "tags": [
                   "kncr11",
                   "papel",
                   "fii",
                   "renda"
+            ]
+      },
+      {
+            "slug": "smart-tv-55-qled",
+            "title": "Smart TV 55 QLED",
+            "category": "ecommerce",
+            "source": "Magazine Luiza",
+            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
+            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
+            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
+            "referenceValue": 3299,
+            "currentValue": 2613.45,
+            "tags": [
+                  "tv",
+                  "qled",
+                  "sala",
+                  "eletronicos"
             ]
       },
       {
@@ -985,7 +985,7 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 12.12,
+            "currentValue": 12.07,
             "tags": [
                   "mxrf11",
                   "fii",
