@@ -943,6 +943,23 @@
             ]
       },
       {
+            "slug": "smart-tv-55-qled",
+            "title": "Smart TV 55 QLED",
+            "category": "ecommerce",
+            "source": "Magazine Luiza",
+            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
+            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
+            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
+            "referenceValue": 3299,
+            "currentValue": 2613.45,
+            "tags": [
+                  "tv",
+                  "qled",
+                  "sala",
+                  "eletronicos"
+            ]
+      },
+      {
             "slug": "mxrf11-rendimento",
             "title": "MXRF11",
             "category": "fii",
@@ -957,23 +974,6 @@
                   "fii",
                   "dividendos",
                   "rendimento"
-            ]
-      },
-      {
-            "slug": "notebook-rtx4050",
-            "title": "Notebook RTX 4050",
-            "category": "ecommerce",
-            "source": "Amazon Brasil",
-            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
-            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
-            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
-            "referenceValue": 5899,
-            "currentValue": 5889.05,
-            "tags": [
-                  "notebook",
-                  "rtx4050",
-                  "gamer",
-                  "performance"
             ]
       }
 ]
