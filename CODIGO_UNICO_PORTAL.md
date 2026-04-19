@@ -917,7 +917,7 @@
             "headline": "Galaxy A15 em compressão de preço com procura forte no mobile.",
             "summary": "Modelo com procura consistente em pesquisas de compra imediata e forte sensibilidade a desconto real.",
             "referenceValue": 1429,
-            "currentValue": 949,
+            "currentValue": 25.71,
             "tags": [
                   "android",
                   "desconto",
@@ -974,23 +974,6 @@
                   "fii",
                   "dividendos",
                   "rendimento"
-            ]
-      },
-      {
-            "slug": "notebook-rtx4050",
-            "title": "Notebook RTX 4050",
-            "category": "ecommerce",
-            "source": "Amazon Brasil",
-            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
-            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
-            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
-            "referenceValue": 5899,
-            "currentValue": 5889.05,
-            "tags": [
-                  "notebook",
-                  "rtx4050",
-                  "gamer",
-                  "performance"
             ]
       }
 ]
