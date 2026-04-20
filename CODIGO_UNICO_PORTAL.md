@@ -951,7 +951,7 @@
             "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
             "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
             "referenceValue": 3299,
-            "currentValue": 2613.45,
+            "currentValue": 2564.05,
             "tags": [
                   "tv",
                   "qled",
@@ -974,6 +974,23 @@
                   "fii",
                   "dividendos",
                   "rendimento"
+            ]
+      },
+      {
+            "slug": "notebook-rtx4050",
+            "title": "Notebook RTX 4050",
+            "category": "ecommerce",
+            "source": "Amazon Brasil",
+            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
+            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
+            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
+            "referenceValue": 5899,
+            "currentValue": 5889.05,
+            "tags": [
+                  "notebook",
+                  "rtx4050",
+                  "gamer",
+                  "performance"
             ]
       }
 ]
