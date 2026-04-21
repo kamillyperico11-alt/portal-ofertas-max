@@ -934,7 +934,7 @@
             "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
             "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
             "referenceValue": 11.1,
-            "currentValue": 13.79,
+            "currentValue": 13.75,
             "tags": [
                   "kncr11",
                   "papel",
@@ -968,7 +968,7 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 12.11,
+            "currentValue": 12.03,
             "tags": [
                   "mxrf11",
                   "fii",
