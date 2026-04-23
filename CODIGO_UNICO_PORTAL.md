@@ -917,29 +917,12 @@
             "headline": "Galaxy A15 em compressão de preço com procura forte no mobile.",
             "summary": "Modelo com procura consistente em pesquisas de compra imediata e forte sensibilidade a desconto real.",
             "referenceValue": 1429,
-            "currentValue": 899.1,
+            "currentValue": 949,
             "tags": [
                   "android",
                   "desconto",
                   "smartphone",
                   "alto giro"
-            ]
-      },
-      {
-            "slug": "smart-tv-55-qled",
-            "title": "Smart TV 55 QLED",
-            "category": "ecommerce",
-            "source": "Magazine Luiza",
-            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
-            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
-            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
-            "referenceValue": 3299,
-            "currentValue": 2159.1,
-            "tags": [
-                  "tv",
-                  "qled",
-                  "sala",
-                  "eletronicos"
             ]
       },
       {
@@ -957,6 +940,23 @@
                   "papel",
                   "fii",
                   "renda"
+            ]
+      },
+      {
+            "slug": "smart-tv-55-qled",
+            "title": "Smart TV 55 QLED",
+            "category": "ecommerce",
+            "source": "Magazine Luiza",
+            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
+            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
+            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
+            "referenceValue": 3299,
+            "currentValue": 2564.05,
+            "tags": [
+                  "tv",
+                  "qled",
+                  "sala",
+                  "eletronicos"
             ]
       },
       {
