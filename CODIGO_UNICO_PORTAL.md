@@ -926,23 +926,6 @@
             ]
       },
       {
-            "slug": "smart-tv-55-qled",
-            "title": "Smart TV 55 QLED",
-            "category": "ecommerce",
-            "source": "Magazine Luiza",
-            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
-            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
-            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
-            "referenceValue": 3299,
-            "currentValue": 2564.05,
-            "tags": [
-                  "tv",
-                  "qled",
-                  "sala",
-                  "eletronicos"
-            ]
-      },
-      {
             "slug": "mxrf11-rendimento",
             "title": "MXRF11",
             "category": "fii",
@@ -957,6 +940,57 @@
                   "fii",
                   "dividendos",
                   "rendimento"
+            ]
+      },
+      {
+            "slug": "smart-tv-55-qled",
+            "title": "Smart TV 55 QLED",
+            "category": "ecommerce",
+            "source": "Magazine Luiza",
+            "sourceUrl": "https://www.magazineluiza.com.br/busca/smart+tv+55+qled/",
+            "headline": "Televisores premium geram decisão rápida quando o desconto atravessa a média recente.",
+            "summary": "Bom item de conversão para tráfego orientado a upgrade de sala e eventos promocionais.",
+            "referenceValue": 3299,
+            "currentValue": 3312.85,
+            "tags": [
+                  "tv",
+                  "qled",
+                  "sala",
+                  "eletronicos"
+            ]
+      },
+      {
+            "slug": "poco-x6-pro-512gb",
+            "title": "POCO X6 Pro 512 GB",
+            "category": "ecommerce",
+            "source": "Mercado Livre",
+            "sourceUrl": "https://lista.mercadolivre.com.br/poco-x6-pro-512gb",
+            "headline": "POCO em stress promocional com perfil ideal para tráfego de comparação.",
+            "summary": "Produto técnico com conversão forte em conteúdos de ficha, benchmark e urgência.",
+            "referenceValue": 2369,
+            "currentValue": 2369,
+            "tags": [
+                  "poco",
+                  "performance",
+                  "smartphone",
+                  "oferta"
+            ]
+      },
+      {
+            "slug": "iphone-15-128gb",
+            "title": "iPhone 15 128 GB",
+            "category": "ecommerce",
+            "source": "Mercado Livre",
+            "sourceUrl": "https://lista.mercadolivre.com.br/iphone-15-128gb",
+            "headline": "iPhone 15 entra em radar quando há desalinhamento relevante face ao preço médio.",
+            "summary": "Busca muito forte e propensão a clique alto quando o preço cai de forma visível.",
+            "referenceValue": 4699,
+            "currentValue": 4699,
+            "tags": [
+                  "iphone",
+                  "apple",
+                  "premium",
+                  "mobile"
             ]
       }
 ]
