@@ -917,29 +917,12 @@
             "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
             "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
             "referenceValue": 11.1,
-            "currentValue": 13.83,
+            "currentValue": 13.95,
             "tags": [
                   "kncr11",
                   "papel",
                   "fii",
                   "renda"
-            ]
-      },
-      {
-            "slug": "mxrf11-rendimento",
-            "title": "MXRF11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
-            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
-            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
-            "referenceValue": 10.15,
-            "currentValue": 12.28,
-            "tags": [
-                  "mxrf11",
-                  "fii",
-                  "dividendos",
-                  "rendimento"
             ]
       },
       {
@@ -957,6 +940,23 @@
                   "qled",
                   "sala",
                   "eletronicos"
+            ]
+      },
+      {
+            "slug": "mxrf11-rendimento",
+            "title": "MXRF11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
+            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
+            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
+            "referenceValue": 10.15,
+            "currentValue": 12.19,
+            "tags": [
+                  "mxrf11",
+                  "fii",
+                  "dividendos",
+                  "rendimento"
             ]
       }
 ]
