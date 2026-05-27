@@ -909,6 +909,23 @@
 
     const MONITOR_SOURCE = [
       {
+            "slug": "notebook-rtx4050",
+            "title": "Notebook RTX 4050",
+            "category": "ecommerce",
+            "source": "Amazon Brasil",
+            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
+            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
+            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
+            "referenceValue": 5899,
+            "currentValue": 3499,
+            "tags": [
+                  "notebook",
+                  "rtx4050",
+                  "gamer",
+                  "performance"
+            ]
+      },
+      {
             "slug": "kncr11-radar",
             "title": "KNCR11",
             "category": "fii",
@@ -917,7 +934,7 @@
             "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
             "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
             "referenceValue": 11.1,
-            "currentValue": 13.93,
+            "currentValue": 13.85,
             "tags": [
                   "kncr11",
                   "papel",
@@ -951,7 +968,7 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 12.06,
+            "currentValue": 12,
             "tags": [
                   "mxrf11",
                   "fii",
