@@ -917,7 +917,7 @@
             "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
             "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
             "referenceValue": 8.6,
-            "currentValue": 10.91,
+            "currentValue": 10.89,
             "tags": [
                   "xplg11",
                   "logistica",
@@ -951,7 +951,7 @@
             "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
             "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
             "referenceValue": 11.1,
-            "currentValue": 13.55,
+            "currentValue": 13.56,
             "tags": [
                   "kncr11",
                   "papel",
