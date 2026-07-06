@@ -960,23 +960,6 @@
             ]
       },
       {
-            "slug": "kncr11-radar",
-            "title": "KNCR11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/kncr11",
-            "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
-            "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
-            "referenceValue": 11.1,
-            "currentValue": 13.41,
-            "tags": [
-                  "kncr11",
-                  "papel",
-                  "fii",
-                  "renda"
-            ]
-      },
-      {
             "slug": "smart-tv-55-qled",
             "title": "Smart TV 55 QLED",
             "category": "ecommerce",
@@ -991,6 +974,23 @@
                   "qled",
                   "sala",
                   "eletronicos"
+            ]
+      },
+      {
+            "slug": "kncr11-radar",
+            "title": "KNCR11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/kncr11",
+            "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
+            "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
+            "referenceValue": 11.1,
+            "currentValue": 13.39,
+            "tags": [
+                  "kncr11",
+                  "papel",
+                  "fii",
+                  "renda"
             ]
       }
 ]
