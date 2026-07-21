@@ -917,7 +917,7 @@
             "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
             "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
             "referenceValue": 5899,
-            "currentValue": 3960,
+            "currentValue": 3735.79,
             "tags": [
                   "notebook",
                   "rtx4050",
