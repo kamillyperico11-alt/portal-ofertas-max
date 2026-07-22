@@ -909,6 +909,23 @@
 
     const MONITOR_SOURCE = [
       {
+            "slug": "notebook-rtx4050",
+            "title": "Notebook RTX 4050",
+            "category": "ecommerce",
+            "source": "Amazon Brasil",
+            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
+            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
+            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
+            "referenceValue": 5899,
+            "currentValue": 3598.99,
+            "tags": [
+                  "notebook",
+                  "rtx4050",
+                  "gamer",
+                  "performance"
+            ]
+      },
+      {
             "slug": "poco-x6-pro-512gb",
             "title": "POCO X6 Pro 512 GB",
             "category": "ecommerce",
@@ -934,7 +951,7 @@
             "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
             "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
             "referenceValue": 8.6,
-            "currentValue": 10.84,
+            "currentValue": 10.81,
             "tags": [
                   "xplg11",
                   "logistica",
@@ -951,7 +968,7 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 12.32,
+            "currentValue": 12.4,
             "tags": [
                   "mxrf11",
                   "fii",
@@ -974,23 +991,6 @@
                   "qled",
                   "sala",
                   "eletronicos"
-            ]
-      },
-      {
-            "slug": "notebook-rtx4050",
-            "title": "Notebook RTX 4050",
-            "category": "ecommerce",
-            "source": "Amazon Brasil",
-            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
-            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
-            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
-            "referenceValue": 5899,
-            "currentValue": 4899,
-            "tags": [
-                  "notebook",
-                  "rtx4050",
-                  "gamer",
-                  "performance"
             ]
       }
 ]
