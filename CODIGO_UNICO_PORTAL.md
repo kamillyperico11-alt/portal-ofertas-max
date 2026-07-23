@@ -909,23 +909,6 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "poco-x6-pro-512gb",
-            "title": "POCO X6 Pro 512 GB",
-            "category": "ecommerce",
-            "source": "Mercado Livre",
-            "sourceUrl": "https://lista.mercadolivre.com.br/poco-x6-pro-512gb",
-            "headline": "POCO em stress promocional com perfil ideal para tráfego de comparação.",
-            "summary": "Produto técnico com conversão forte em conteúdos de ficha, benchmark e urgência.",
-            "referenceValue": 2369,
-            "currentValue": 1699,
-            "tags": [
-                  "poco",
-                  "performance",
-                  "smartphone",
-                  "oferta"
-            ]
-      },
-      {
             "slug": "notebook-rtx4050",
             "title": "Notebook RTX 4050",
             "category": "ecommerce",
@@ -943,6 +926,23 @@
             ]
       },
       {
+            "slug": "poco-x6-pro-512gb",
+            "title": "POCO X6 Pro 512 GB",
+            "category": "ecommerce",
+            "source": "Mercado Livre",
+            "sourceUrl": "https://lista.mercadolivre.com.br/poco-x6-pro-512gb",
+            "headline": "POCO em stress promocional com perfil ideal para tráfego de comparação.",
+            "summary": "Produto técnico com conversão forte em conteúdos de ficha, benchmark e urgência.",
+            "referenceValue": 2369,
+            "currentValue": 1699,
+            "tags": [
+                  "poco",
+                  "performance",
+                  "smartphone",
+                  "oferta"
+            ]
+      },
+      {
             "slug": "xplg11-radar",
             "title": "XPLG11",
             "category": "fii",
@@ -951,7 +951,7 @@
             "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
             "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
             "referenceValue": 8.6,
-            "currentValue": 10.81,
+            "currentValue": 10.85,
             "tags": [
                   "xplg11",
                   "logistica",
@@ -968,7 +968,7 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 12.4,
+            "currentValue": 12.35,
             "tags": [
                   "mxrf11",
                   "fii",
