@@ -926,23 +926,6 @@
             ]
       },
       {
-            "slug": "poco-x6-pro-512gb",
-            "title": "POCO X6 Pro 512 GB",
-            "category": "ecommerce",
-            "source": "Mercado Livre",
-            "sourceUrl": "https://lista.mercadolivre.com.br/poco-x6-pro-512gb",
-            "headline": "POCO em stress promocional com perfil ideal para tráfego de comparação.",
-            "summary": "Produto técnico com conversão forte em conteúdos de ficha, benchmark e urgência.",
-            "referenceValue": 2369,
-            "currentValue": 1699,
-            "tags": [
-                  "poco",
-                  "performance",
-                  "smartphone",
-                  "oferta"
-            ]
-      },
-      {
             "slug": "xplg11-radar",
             "title": "XPLG11",
             "category": "fii",
