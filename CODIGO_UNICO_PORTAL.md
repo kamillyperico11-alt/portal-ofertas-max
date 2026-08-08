@@ -909,23 +909,6 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "xplg11-radar",
-            "title": "XPLG11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
-            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
-            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
-            "referenceValue": 8.6,
-            "currentValue": 10.77,
-            "tags": [
-                  "xplg11",
-                  "logistica",
-                  "proventos",
-                  "fii"
-            ]
-      },
-      {
             "slug": "mxrf11-rendimento",
             "title": "MXRF11",
             "category": "fii",
@@ -934,12 +917,29 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 12.67,
+            "currentValue": 12.63,
             "tags": [
                   "mxrf11",
                   "fii",
                   "dividendos",
                   "rendimento"
+            ]
+      },
+      {
+            "slug": "xplg11-radar",
+            "title": "XPLG11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
+            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
+            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
+            "referenceValue": 8.6,
+            "currentValue": 10.7,
+            "tags": [
+                  "xplg11",
+                  "logistica",
+                  "proventos",
+                  "fii"
             ]
       },
       {
