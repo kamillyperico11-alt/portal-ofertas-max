@@ -934,7 +934,7 @@
             "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
             "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
             "referenceValue": 8.6,
-            "currentValue": 10.7,
+            "currentValue": 10.77,
             "tags": [
                   "xplg11",
                   "logistica",
@@ -951,7 +951,7 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 12.61,
+            "currentValue": 12.69,
             "tags": [
                   "mxrf11",
                   "fii",
