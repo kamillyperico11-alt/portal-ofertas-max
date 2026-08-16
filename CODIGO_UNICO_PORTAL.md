@@ -909,23 +909,6 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "xplg11-radar",
-            "title": "XPLG11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
-            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
-            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
-            "referenceValue": 8.6,
-            "currentValue": 10.99,
-            "tags": [
-                  "xplg11",
-                  "logistica",
-                  "proventos",
-                  "fii"
-            ]
-      },
-      {
             "slug": "notebook-rtx4050",
             "title": "Notebook RTX 4050",
             "category": "ecommerce",
@@ -940,6 +923,23 @@
                   "rtx4050",
                   "gamer",
                   "performance"
+            ]
+      },
+      {
+            "slug": "xplg11-radar",
+            "title": "XPLG11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
+            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
+            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
+            "referenceValue": 8.6,
+            "currentValue": 10.99,
+            "tags": [
+                  "xplg11",
+                  "logistica",
+                  "proventos",
+                  "fii"
             ]
       },
       {
