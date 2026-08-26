@@ -909,23 +909,6 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "mxrf11-rendimento",
-            "title": "MXRF11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
-            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
-            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
-            "referenceValue": 10.15,
-            "currentValue": 12.99,
-            "tags": [
-                  "mxrf11",
-                  "fii",
-                  "dividendos",
-                  "rendimento"
-            ]
-      },
-      {
             "slug": "xplg11-radar",
             "title": "XPLG11",
             "category": "fii",
@@ -957,6 +940,23 @@
                   "rtx4050",
                   "gamer",
                   "performance"
+            ]
+      },
+      {
+            "slug": "mxrf11-rendimento",
+            "title": "MXRF11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
+            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
+            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
+            "referenceValue": 10.15,
+            "currentValue": 12.93,
+            "tags": [
+                  "mxrf11",
+                  "fii",
+                  "dividendos",
+                  "rendimento"
             ]
       },
       {
