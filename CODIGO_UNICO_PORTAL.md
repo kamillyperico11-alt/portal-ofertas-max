@@ -909,40 +909,6 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "xplg11-radar",
-            "title": "XPLG11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
-            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
-            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
-            "referenceValue": 8.6,
-            "currentValue": 10.98,
-            "tags": [
-                  "xplg11",
-                  "logistica",
-                  "proventos",
-                  "fii"
-            ]
-      },
-      {
-            "slug": "notebook-rtx4050",
-            "title": "Notebook RTX 4050",
-            "category": "ecommerce",
-            "source": "Amazon Brasil",
-            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
-            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
-            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
-            "referenceValue": 5899,
-            "currentValue": 4299.99,
-            "tags": [
-                  "notebook",
-                  "rtx4050",
-                  "gamer",
-                  "performance"
-            ]
-      },
-      {
             "slug": "mxrf11-rendimento",
             "title": "MXRF11",
             "category": "fii",
@@ -960,6 +926,23 @@
             ]
       },
       {
+            "slug": "xplg11-radar",
+            "title": "XPLG11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
+            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
+            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
+            "referenceValue": 8.6,
+            "currentValue": 10.83,
+            "tags": [
+                  "xplg11",
+                  "logistica",
+                  "proventos",
+                  "fii"
+            ]
+      },
+      {
             "slug": "smart-tv-55-qled",
             "title": "Smart TV 55 QLED",
             "category": "ecommerce",
@@ -974,6 +957,23 @@
                   "qled",
                   "sala",
                   "eletronicos"
+            ]
+      },
+      {
+            "slug": "notebook-rtx4050",
+            "title": "Notebook RTX 4050",
+            "category": "ecommerce",
+            "source": "Amazon Brasil",
+            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
+            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
+            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
+            "referenceValue": 5899,
+            "currentValue": 5599,
+            "tags": [
+                  "notebook",
+                  "rtx4050",
+                  "gamer",
+                  "performance"
             ]
       }
 ]
