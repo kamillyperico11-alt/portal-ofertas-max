@@ -917,12 +917,29 @@
             "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
             "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
             "referenceValue": 5899,
-            "currentValue": 4402.43,
+            "currentValue": 3499,
             "tags": [
                   "notebook",
                   "rtx4050",
                   "gamer",
                   "performance"
+            ]
+      },
+      {
+            "slug": "xplg11-radar",
+            "title": "XPLG11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
+            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
+            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
+            "referenceValue": 8.6,
+            "currentValue": 10.82,
+            "tags": [
+                  "xplg11",
+                  "logistica",
+                  "proventos",
+                  "fii"
             ]
       },
       {
@@ -943,37 +960,20 @@
             ]
       },
       {
-            "slug": "mxrf11-rendimento",
-            "title": "MXRF11",
+            "slug": "kncr11-radar",
+            "title": "KNCR11",
             "category": "fii",
             "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
-            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
-            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
-            "referenceValue": 10.15,
-            "currentValue": 11.93,
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/kncr11",
+            "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
+            "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
+            "referenceValue": 11.1,
+            "currentValue": 13.23,
             "tags": [
-                  "mxrf11",
+                  "kncr11",
+                  "papel",
                   "fii",
-                  "dividendos",
-                  "rendimento"
-            ]
-      },
-      {
-            "slug": "xplg11-radar",
-            "title": "XPLG11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
-            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
-            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
-            "referenceValue": 8.6,
-            "currentValue": 9.86,
-            "tags": [
-                  "xplg11",
-                  "logistica",
-                  "proventos",
-                  "fii"
+                  "renda"
             ]
       }
 ]
