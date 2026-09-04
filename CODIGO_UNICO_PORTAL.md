@@ -909,23 +909,6 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "notebook-rtx4050",
-            "title": "Notebook RTX 4050",
-            "category": "ecommerce",
-            "source": "Amazon Brasil",
-            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
-            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
-            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
-            "referenceValue": 5899,
-            "currentValue": 3570,
-            "tags": [
-                  "notebook",
-                  "rtx4050",
-                  "gamer",
-                  "performance"
-            ]
-      },
-      {
             "slug": "mxrf11-rendimento",
             "title": "MXRF11",
             "category": "fii",
@@ -943,6 +926,23 @@
             ]
       },
       {
+            "slug": "notebook-rtx4050",
+            "title": "Notebook RTX 4050",
+            "category": "ecommerce",
+            "source": "Amazon Brasil",
+            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
+            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
+            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
+            "referenceValue": 5899,
+            "currentValue": 3570,
+            "tags": [
+                  "notebook",
+                  "rtx4050",
+                  "gamer",
+                  "performance"
+            ]
+      },
+      {
             "slug": "xplg11-radar",
             "title": "XPLG11",
             "category": "fii",
@@ -951,7 +951,7 @@
             "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
             "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
             "referenceValue": 8.6,
-            "currentValue": 10.85,
+            "currentValue": 10.84,
             "tags": [
                   "xplg11",
                   "logistica",
