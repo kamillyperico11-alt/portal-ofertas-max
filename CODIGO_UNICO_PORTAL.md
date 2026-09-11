@@ -917,7 +917,7 @@
             "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
             "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
             "referenceValue": 5899,
-            "currentValue": 3999,
+            "currentValue": 3570,
             "tags": [
                   "notebook",
                   "rtx4050",
@@ -951,7 +951,7 @@
             "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
             "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
             "referenceValue": 8.6,
-            "currentValue": 10.75,
+            "currentValue": 10.73,
             "tags": [
                   "xplg11",
                   "logistica",
