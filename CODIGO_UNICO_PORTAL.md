@@ -909,23 +909,6 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "mxrf11-rendimento",
-            "title": "MXRF11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
-            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
-            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
-            "referenceValue": 10.15,
-            "currentValue": 13.13,
-            "tags": [
-                  "mxrf11",
-                  "fii",
-                  "dividendos",
-                  "rendimento"
-            ]
-      },
-      {
             "slug": "notebook-rtx4050",
             "title": "Notebook RTX 4050",
             "category": "ecommerce",
@@ -934,12 +917,29 @@
             "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
             "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
             "referenceValue": 5899,
-            "currentValue": 3999,
+            "currentValue": 999.98,
             "tags": [
                   "notebook",
                   "rtx4050",
                   "gamer",
                   "performance"
+            ]
+      },
+      {
+            "slug": "mxrf11-rendimento",
+            "title": "MXRF11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
+            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
+            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
+            "referenceValue": 10.15,
+            "currentValue": 13.18,
+            "tags": [
+                  "mxrf11",
+                  "fii",
+                  "dividendos",
+                  "rendimento"
             ]
       },
       {
