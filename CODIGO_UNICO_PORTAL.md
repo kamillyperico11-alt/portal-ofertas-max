@@ -968,7 +968,7 @@
             "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
             "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
             "referenceValue": 8.6,
-            "currentValue": 10.62,
+            "currentValue": 10.49,
             "tags": [
                   "xplg11",
                   "logistica",
