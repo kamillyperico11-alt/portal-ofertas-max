@@ -909,20 +909,20 @@
 
     const MONITOR_SOURCE = [
       {
-            "slug": "mxrf11-rendimento",
-            "title": "MXRF11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
-            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
-            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
-            "referenceValue": 10.15,
-            "currentValue": 13.05,
+            "slug": "notebook-rtx4050",
+            "title": "Notebook RTX 4050",
+            "category": "ecommerce",
+            "source": "Amazon Brasil",
+            "sourceUrl": "https://www.amazon.com.br/s?k=notebook+rtx+4050",
+            "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
+            "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
+            "referenceValue": 5899,
+            "currentValue": 3771.45,
             "tags": [
-                  "mxrf11",
-                  "fii",
-                  "dividendos",
-                  "rendimento"
+                  "notebook",
+                  "rtx4050",
+                  "gamer",
+                  "performance"
             ]
       },
       {
@@ -940,6 +940,23 @@
                   "apple",
                   "premium",
                   "mobile"
+            ]
+      },
+      {
+            "slug": "mxrf11-rendimento",
+            "title": "MXRF11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/mxrf11",
+            "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
+            "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
+            "referenceValue": 10.15,
+            "currentValue": 12.77,
+            "tags": [
+                  "mxrf11",
+                  "fii",
+                  "dividendos",
+                  "rendimento"
             ]
       },
       {
@@ -968,7 +985,7 @@
             "headline": "KNCR11 entra no radar quando o retorno defensivo sobe em relação à base histórica curta.",
             "summary": "Ativo útil para páginas orientadas a estabilidade, fluxo e proteção em renda imobiliária.",
             "referenceValue": 11.1,
-            "currentValue": 13.32,
+            "currentValue": 13.22,
             "tags": [
                   "kncr11",
                   "papel",
