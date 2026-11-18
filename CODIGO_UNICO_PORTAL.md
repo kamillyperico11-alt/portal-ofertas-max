@@ -917,7 +917,7 @@
             "headline": "Notebook gamer entra em janela de decisão com ticket elevado e margem real.",
             "summary": "Ticket alto com espaço para copy técnica, prova de urgência e comparativo direto.",
             "referenceValue": 5899,
-            "currentValue": 4099,
+            "currentValue": 2899,
             "tags": [
                   "notebook",
                   "rtx4050",
@@ -934,7 +934,7 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 13.81,
+            "currentValue": 13.77,
             "tags": [
                   "mxrf11",
                   "fii",
@@ -951,7 +951,7 @@
             "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
             "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
             "referenceValue": 8.6,
-            "currentValue": 11.13,
+            "currentValue": 10.96,
             "tags": [
                   "xplg11",
                   "logistica",
