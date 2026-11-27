@@ -917,29 +917,12 @@
             "headline": "MXRF11 volta a ganhar atenção por rendimento relativo acima da base recente.",
             "summary": "Ativo líquido e recorrente em conteúdos de renda mensal e comparação entre FIIs.",
             "referenceValue": 10.15,
-            "currentValue": 14.07,
+            "currentValue": 13.69,
             "tags": [
                   "mxrf11",
                   "fii",
                   "dividendos",
                   "rendimento"
-            ]
-      },
-      {
-            "slug": "xplg11-radar",
-            "title": "XPLG11",
-            "category": "fii",
-            "source": "Funds Explorer",
-            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
-            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
-            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
-            "referenceValue": 8.6,
-            "currentValue": 10.92,
-            "tags": [
-                  "xplg11",
-                  "logistica",
-                  "proventos",
-                  "fii"
             ]
       },
       {
@@ -957,6 +940,23 @@
                   "rtx4050",
                   "gamer",
                   "performance"
+            ]
+      },
+      {
+            "slug": "xplg11-radar",
+            "title": "XPLG11",
+            "category": "fii",
+            "source": "Funds Explorer",
+            "sourceUrl": "https://www.fundsexplorer.com.br/funds/xplg11",
+            "headline": "XPLG11 reage bem quando o dividend yield acelera acima da normalidade recente.",
+            "summary": "Bom ativo para atrair cliques de perfil conservador com foco em logística.",
+            "referenceValue": 8.6,
+            "currentValue": 10.84,
+            "tags": [
+                  "xplg11",
+                  "logistica",
+                  "proventos",
+                  "fii"
             ]
       },
       {
